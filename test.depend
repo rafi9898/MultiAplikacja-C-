@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1484401568 source:c:\users\rafa³\desktop\test\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
